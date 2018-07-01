@@ -5,7 +5,7 @@ Community Showcase is the place for you :sparkles:
 
 ## How to contribute 
 
-1. Create a readme.md explaining your project and how to run it.
+1. Create a README.md explaining your project and how to run it.
 2. Get your project ready, store it in a folder titled <YOUR-PROJECT-NAME>
 3. Fork this repository 
 4. Put your folder in the submissions folder of your folked repository
